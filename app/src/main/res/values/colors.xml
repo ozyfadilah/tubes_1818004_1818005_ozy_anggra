@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#010622</color>
+    <color name="colorPrimaryDark">#010622</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="list_row_start_color">#2F8AE4</color>
+    <color name="orange">#FFA500 </color>
+    <color name="green">#199a2b</color>
+    <color name="pink">#e44488</color>
+    <color name="biruu">#189dce</color>
+    <color name="merah">#f80505</color>
+    <color name="putih">#ffffff</color>
+    <color name="warna">#a9f9e3</color>
+</resources>
